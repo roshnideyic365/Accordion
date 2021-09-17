@@ -1,0 +1,30 @@
+.container
+{
+    padding-top: 5%;
+}
+.container .accordion .card .card-header h2 .btn i
+{
+    margin-right: 2%;
+}
+.container .accordion .card .collapse .card-body .details
+{
+    width: 100%;
+    background-color: rgb(198, 250, 250);
+    border-radius: 2%;
+    border-left: 3px solid rgba(0, 0, 0, 0.425);
+    border-right: 3px solid rgba(0, 0, 0, 0.425);
+}
+.container .accordion .card .collapse
+{
+    box-shadow: 
+        inset 0px 13px 8px -4px rgb(230, 228, 228),
+        inset 0px -11px 8px -10px rgb(230, 228, 228); 
+}
+.container .accordion .card .collapse .card-body form input
+{
+    border-radius: 3%;
+    margin: 1%;
+    border: none;
+    border-left: 3px solid rgba(0, 0, 0, 0.425);
+    border-right: 3px solid rgba(0, 0, 0, 0.425);
+}
